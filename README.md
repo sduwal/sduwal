@@ -1,10 +1,21 @@
-### Hello World! I'm Saroj Duwal 👋👋
----
+### Hello World! I'm Saroj Duwal <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+<img align="right" src="https://raw.githubusercontent.com/sduwal/sduwal/main/programmer.svg" width="250px" />
+
 
 **I am currently** <br/>
   🧑‍🎓 Graduate Student <br> 
   💻 Computer Science <br>
   🏫 University of New Orleans.  
+
+🧑‍🎓 **Graduation Date** <br/>
+  May 2022 (*Actively looking for full time software engineering positions*)
+
+### ✉️ You can reach me at
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duwalsaroj04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saroj-duwal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/duwal_saroj)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sduwal)
 
 
 ### 🧑‍💼 I have worked with 👨‍💻👨‍💻
