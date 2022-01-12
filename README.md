@@ -9,7 +9,7 @@
   🏫 University of New Orleans.  
 
 🧑‍🎓 **Graduation Date** <br/>
-  May 2022 (*Actively looking for full time software engineering positions*)
+  May 2022
 
 ### ✉️ You can reach me at
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duwalsaroj04@gmail.com)
